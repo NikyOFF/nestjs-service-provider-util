@@ -27,7 +27,8 @@
   },
   "keywords": [
     "nestjs",
-    "agenda"
+    "provider",
+    "util"
   ],
   "“files": [
     "lib/**/*"
