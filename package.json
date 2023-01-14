@@ -1,6 +1,6 @@
 {
   "name": "nestjs-provider-util",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple provider util",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -17,13 +17,13 @@
   },
   "author": "nikyoff",
   "license": "ISC",
-  "homepage": "https://github.com/NikyOFF/nestjs-agenda#readme",
+  "homepage": "https://github.com/NikyOFF/nestjs-service-provider-util#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NikyOFF/nestjs-agenda.git"
+    "url": "git+https://github.com/NikyOFF/nestjs-service-provider-util.git"
   },
   "bugs": {
-    "url": "https://github.com/NikyOFF/nestjs-agenda/issues"
+    "url": "https://github.com/NikyOFF/nestjs-service-provider-util/issues"
   },
   "keywords": [
     "nestjs",
