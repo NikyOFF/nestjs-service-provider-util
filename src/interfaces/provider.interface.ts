@@ -7,5 +7,9 @@ import {
 
 export interface ServiceProvider<T = any> {
   TOKEN: symbol;
-  PROVIDER: ClassProvider<T> | ValueProvider<T> | FactoryProvider<T> | ExistingProvider<T>;
+  PROVIDER:
+    | ClassProvider<T>
+    | ValueProvider<T>
+    | FactoryProvider<T>
+    | ExistingProvider<T>;
 }
